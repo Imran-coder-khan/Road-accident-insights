@@ -22,4 +22,6 @@ I’m continuously improving my skills in data analytics and dashboard developme
 
 #ExcelDashboard #DataAnalytics #DashboardDesign #DataVisualization #ExcelProjects #DataAnalyst #AnalyticsPortfolio
 
-<img!dashboard
+
+
+<img src="https://github.com/Imran-coder-khan/Road-accident-insights/blob/acefeb0f10fc703c52b36e6aa47cb6d669654fa3/Screenshot%202026-02-23%20161835.png" alt="image Description" width="600">
